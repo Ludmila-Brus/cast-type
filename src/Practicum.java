@@ -24,6 +24,8 @@ public class Practicum {
 //        Snils snils = (Snils) document_3; // Код успешно скомпилируется
 
         Document document_4 = new Snils("12345678901");
+        System.out.println("document_4 instanceof Document ");
+        System.out.println(document_4 instanceof Document);
 
         Snils snils = (Snils) document_4;
         System.out.println(snils.getDocumentNumber());
