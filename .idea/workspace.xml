@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f286bdff-b6cc-43f3-af26-5c55170297de" name="Changes" comment="пример 5 спринта">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cast-type.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Id.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practicum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RussianPassport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practicum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practicum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +49,14 @@
       <option name="presentableId" value="Default" />
       <updated>1718723311884</updated>
     </task>
+    <task id="LOCAL-00001" summary="пример 5 спринта">
+      <created>1718741468228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718741468228</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

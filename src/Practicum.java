@@ -18,6 +18,15 @@ public class Practicum {
         System.out.println(passport_2.getNumber());
         System.out.println(document_2.getDocumentNumber());
 
+//        Document document_3 = new RussianPassport("1111", "567899");
+//        Snils snils = (Snils) document_3; // Код успешно скомпилируется
+
+        Document document_4 = new Snils("12345678901");
+
+        Snils snils = (Snils) document_4;
+        System.out.println(snils.getDocumentNumber());
+        //System.out.println(passport_1.getSeries());
+        //System.out.println(passport_1.getNumber());
 
     }
 
