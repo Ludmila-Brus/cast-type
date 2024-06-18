@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class Practicum {
 
     public static void main(String[] args) {
@@ -25,9 +27,14 @@ public class Practicum {
 
         Snils snils = (Snils) document_4;
         System.out.println(snils.getDocumentNumber());
+
+        boolean isSnils = snils instanceof Snils;
+        System.out.println(isSnils);
         //System.out.println(passport_1.getSeries());
         //System.out.println(passport_1.getNumber());
 
+//        List<Document> documents = getAllDocuments();
+//        RussianPassport passport_5 = (RussianPassport) documents.get(0);
     }
 
 }
